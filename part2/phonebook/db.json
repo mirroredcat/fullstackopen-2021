@@ -1,0 +1,39 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "123-455",
+      "id": 1
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "123-12345",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": 4
+    },
+    {
+      "name": "Mikael Akerfeldt",
+      "number": "3123-5345287",
+      "id": 8
+    },
+    {
+      "name": "Steven Wilson",
+      "number": "34432-55253",
+      "id": 9
+    },
+    {
+      "name": "Shauna Coxsey",
+      "number": "543-1234523",
+      "id": 10
+    }
+  ]
+}
